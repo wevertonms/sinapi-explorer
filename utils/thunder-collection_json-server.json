@@ -1,0 +1,24 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "json-server",
+    "dateExported": "2021-04-24T18:03:49.490Z",
+    "version": "1.0",
+    "requests": [
+        {
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "*/*"
+                }
+            ],
+            "colId": "4e529282-42d7-4fe9-b4b8-2a2bfd95506a",
+            "name": "ELETRICISTAS mensalista",
+            "url": "http://localhost:8000/api?q=ELETRICISTA&unidade=MES",
+            "method": "GET",
+            "modified": "2021-04-24T18:03:21.710Z",
+            "created": "2021-04-24T17:48:08.170Z",
+            "_id": "9913d706-39b1-4bb5-a3be-9a48a2deac84",
+            "tests": []
+        }
+    ]
+}
